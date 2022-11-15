@@ -23,7 +23,7 @@ Check if string is an ordinal word
 #### .getComplete
 
 ```http
-  .getComplete("21st") //thirty-first
+  .getComplete("21st") //twenty-first
   .getComplete("13th") //thirteenth
 ```
 
