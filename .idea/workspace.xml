@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb211d79-b085-4472-8d65-9c12847bd392" name="Changes" comment="" />
+    <list default="true" id="fb211d79-b085-4472-8d65-9c12847bd392" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberAbbreviationReplacer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OrdinalNumberReplacer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CenturyReplacer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CenturyReplacer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Gj8fhidd7PbmIYkI5OBotVzFSD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,9 +38,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/michael/Documents/OrdinalNumberReplacer",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OrdinalNumberReplacer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,8 +65,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666890738544</updated>
+      <workItem from="1666890739804" duration="2000" />
+      <workItem from="1666890747258" duration="5548000" />
+      <workItem from="1666976360785" duration="7000" />
+      <workItem from="1666981021828" duration="2544000" />
+      <workItem from="1667229214453" duration="7000" />
+      <workItem from="1667331921070" duration="6973000" />
+      <workItem from="1667397390783" duration="600000" />
+      <workItem from="1667402228031" duration="5613000" />
+      <workItem from="1667499723187" duration="93000" />
+      <workItem from="1667511267143" duration="2319000" />
+      <workItem from="1667576182596" duration="23000" />
+      <workItem from="1668006169944" duration="599000" />
+      <workItem from="1668008844372" duration="1407000" />
+      <workItem from="1668010288125" duration="1412000" />
+      <workItem from="1668031474761" duration="599000" />
+      <workItem from="1668099689520" duration="601000" />
+      <workItem from="1668117916426" duration="355000" />
+      <workItem from="1668466311778" duration="5693000" />
+      <workItem from="1668531758862" duration="2403000" />
+      <workItem from="1668538611865" duration="6289000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
