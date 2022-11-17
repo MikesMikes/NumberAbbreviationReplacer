@@ -12,6 +12,7 @@ Util class to replace ordinal numbers under 30
 Check if string is an ordinal word
 
 ```
+  .isOrdinal("1s") //false
   .isOrdinal("21st") //true
   .isOrdinal("28rd") //false
 ```
@@ -22,7 +23,7 @@ Check if string is an ordinal word
 
 #### .getComplete
 
-```http
+```
   .getComplete("21st") //twenty-first
   .getComplete("13th") //thirteenth
 ```

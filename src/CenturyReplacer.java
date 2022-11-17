@@ -13,19 +13,23 @@ public final class CenturyReplacer {
     }
 
     /**
+     * Ordinal numbers at least 1 number and 2 alphabetical characters. i.e. 1st = 1 + st.
      * @param string the word to be checked
      * @return boolean check if word is a valid ordinal number
      */
     public static Boolean isOrdinal(String string) {
+        if (string.length() < 3) {
+            return false;
+        }
         String suffix = string.substring(string.length() - 3).trim();
         if (Character.isDigit(string.charAt(0))) {
-            if (oneToTwentyAbbreviations.containsKey(string)){
+            if (oneToTwentyAbbreviations.containsKey(string)) {
                 return true;
             } else if (suffix.equals("1st")) {
                 return true;
             } else if (suffix.equals("2nd")) {
                 return true;
-            }else if (suffix.equals("3rd")) {
+            } else if (suffix.equals("3rd")) {
                 return true;
             } else if (suffix.substring(1).equals("th")) {
                 return true;
@@ -43,7 +47,7 @@ public final class CenturyReplacer {
         char[] charArr = ordinalWord.toCharArray();
         String numberStr = "";
         String result = "";
-        String suffix = ordinalWord.substring(ordinalWord.length()-2);
+        String suffix = ordinalWord.substring(ordinalWord.length() - 2);
 
         for (int i = 0; i < charArr.length; i++) {
             if (Character.isDigit(charArr[i])) {
